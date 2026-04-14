@@ -13,7 +13,7 @@ Health analytics platform that turns wearable data into actionable health intell
 
 - **12 health indices** computed daily from your biometric data
 - **Biological age** across 8 health domains
-- **3-7 day illness prediction** from pattern detection
+- **- **Health pattern detection** from biometric trend analysis
 - **Body Status** — one daily state that tells you where you stand
 
 Works with Polar, Fitbit, Withings, and Strava. Garmin + Android soon.
