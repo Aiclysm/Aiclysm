@@ -16,7 +16,7 @@ Health analytics platform that turns wearable data into actionable health intell
 - Health pattern detection from biometric trend analysis
 - **Body Status** — one daily state that tells you where you stand
 
-Works with Polar, Fitbit, Withings, and Strava. Garmin + Android soon.
+Works with Polar, Fitbit, Withings, and Strava. More Providers + Android soon.
 
 **Web:** [aiclysm.com/mybodyai/info](https://aiclysm.com/mybodyai/info/)
 
